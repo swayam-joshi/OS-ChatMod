@@ -1,0 +1,7 @@
+6
+users/user_22_0.txt
+users/user_22_1.txt
+users/user_22_2.txt
+users/user_22_3.txt
+users/user_22_4.txt
+users/user_22_5.txt
